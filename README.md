@@ -1,3 +1,4 @@
+![logo](https://github.com/yush9917/New-Readline/blob/main/Poster.png)
 <h1 align="center">Hi 👋, I'm Ayush Vashishtha</h1>
 <h3 align="center">MBA Student | 📊 Aspiring Data Analyst | 🤖 Prompt Engineer | Learning Python, SQL & AI | Open to Projects & Collaboration</h3>
 
